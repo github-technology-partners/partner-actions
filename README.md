@@ -9,6 +9,8 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 >**Disclaimer:** GitHub Partners self-attest to these best practices; When using Actions in your workflow, refer to this [guidance](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions). As with any open-source solution, always conduct your due diligence.
 
 
+<br/>
+
 
 |Category|Partner|Action|Description|Security Policy|
 |-|-|-|-|-|
