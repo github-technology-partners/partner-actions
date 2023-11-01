@@ -2,7 +2,7 @@
 # Awesome Partner Actions 🕶️
 ### List of GitHub Actions created by Technology [Partners](https://partner.github.com/technology-partners) that have self-attested to security[ best practices for authors of GitHub Actions](url). 
 
-The GitHub Actions ecosystem has grown to over 20,000 Actions in the[ GitHub Marketplace](github.com/marketplace) created by the Community and our Technology Partners. In order to maintain the health of the GitHub Actions ecosystem, we provided best practices to authors of GitHub Actions. This repo holds a curated list of GitHub Actions created by [GitHub Technology Partners](https://partner.github.com/technology-partners) that have self-attested to these best practices. 
+The GitHub Actions ecosystem has grown to over 20,000 Actions in the [GitHub Marketplace](https://github.com/marketplace) created by the Community and our Technology Partners. In order to maintain the health of the GitHub Actions ecosystem, we provided best practices to authors of GitHub Actions. This repo holds a curated list of GitHub Actions created by [GitHub Technology Partners](https://partner.github.com/technology-partners) that have self-attested to these best practices. 
 
 Learn more about GitHub Actions [here](https://github.com/features/actions).
 
