@@ -23,6 +23,6 @@ Ensure you can check all the boxes:
 - [ ] **Partner**: Name of the organization that is registered with TPP and holds the action's source repository.
 - [ ] **Action**: Provided a direct hyperlink to your GitHub Action.
 - [ ] **Description**: Maximum of 100 characters.
-- [ ] **Security Policy**: Hpyerlinked to the seucrity policy in the source repo of the Action.
+- [ ] **Security Policy**: Hyperlinked to the security policy in the source repo of the Action.
 
 By submitting this PR, you acknowledge that you have checked off all boxes and followed the [contribution guidelines](contributing.md).
