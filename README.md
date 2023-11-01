@@ -25,15 +25,16 @@ _Fall 2023_
 - Enable Code scanning
 - Enable Dependabot 
 - Enable MFA
-- Verify Badge
+- Verified Badge
 - Security Policy
 
-Learn more about best practices for authors of GitHub Actions [here](url).
+<!--Learn more about best practices for authors of GitHub Actions [here](url)-->
 
 # Partner Contribution Requirements:
+
 - Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate. To submit an Action for consideration, please open a PR and add your Action. 
 
-Learn more about contributing to this repo [here](/path to CONTRIBUTION.md in root)
+Learn more about contributing to this repo [here](contributing.md).
 
 
 
