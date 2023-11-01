@@ -51,7 +51,6 @@ Before you proceed, make sure to read our [Contributor Code of Conduct](code-of-
 | Monitoring             |
 | Project management     |
 | Publishing             |
-| Recently added         |
 | Security               |
 | Support                |
 | Testing                |
