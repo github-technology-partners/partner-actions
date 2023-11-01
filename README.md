@@ -15,9 +15,6 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |Category|Partner|Action|Description|Security Policy|
 |-|-|-|-|-|
 |Android|XYZ Corp|[Android Builder](https://github.com/xyz-corp/android-builder)|A powerful tool to automate Android builds|[Security Policy](https://github.com/xyz-corp/android-builder/blob/main/SECURITY.md)|
-|Java|AlphaTech|[Java Deployer](https://github.com/alphatech/java-deployer)|Streamlined Java deployments made easy|[Security Policy](https://github.com/alphatech/java-deployer/blob/main/SECURITY.md)|
-|Python|DataLabs|[Python Analyzer](https://github.com/datalabs/python-analyzer)|Deep insights into your Python code|[Security Policy](https://github.com/datalabs/python-analyzer/blob/main/SECURITY.md)|
-|...|...|...|...|...|
 
 # Best Practices
 _Fall 2023_
