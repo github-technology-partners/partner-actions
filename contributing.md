@@ -10,16 +10,16 @@ Thank you for your interest in contributing to our curated list of GitHub Action
 Before you proceed, make sure to read our [Contributor Code of Conduct](code-of-conduct.md). By participating in this project, you agree to abide by its terms.
 
 
-## Adding Your Action: Requirements
-1. **Self Attest to Best Practices**:
-By adding the Action to the list, you as the Action's author are self-attesting that:
+## :warning: Adding Your Action: Requirements :warning:
+### By adding the Action to the list, you as the Action's author are **self-attesting** that:
 
-- The organization holding the action must be a registered member of the Technology Partner Program (TPP). Learn more about joining TPP [here](http://partner.github.com)
-- Code scanning is enabled on the repo holding the aciton
-- Dependabot enabled on the repo
-- Enabled MFA for the maintainers of the Action
-- Verified Badge for the organizaiton that owns the Aciton
-- Security Policy in the repo holding the aciton
+- :exclamation: The organization holding the action must be a registered member of the Technology Partner Program (TPP). Learn more about joining TPP [here](http://partner.github.com).
+- :exclamation: Code scanning is enabled on the repo holding the action.
+- :exclamation: Dependabot enabled on the repo.
+- :exclamation: Enabled MFA for the maintainers of the Action.
+- :exclamation: Verified Badge for the organization that owns the Action.
+- :exclamation: Security Policy in the repo holding the action.
+
 
 ## Example Submission
 ```markdown
@@ -28,31 +28,35 @@ By adding the Action to the list, you as the Action's author are self-attesting 
 |Security|XYZ Corp|[Android Builder](https://github.com/xyz-corp/android-builder)|A powerful Android build automation tool|[Security Policy](https://github.com/xyz-corp/android-builder/blob/main/SECURITY.md)|
 ```
 
-### Submission Criteria
+### Submission Criteria for Each Field
 
 <details>
   <summary>Category</summary>
   Your action must fit into one of the provided categories. Choose the most relevant one:
+  <br/>
 
-  - API management
-  - Chat
-  - Code quality
-  - Code review
-  - Continuous integration
-  - Dependency management
-  - Deployment
-  - IDEs
-  - Learning
-  - Localization
-  - Mobile
-  - Monitoring
-  - Project management
-  - Publishing
-  - Recently added
-  - Security
-  - Support
-  - Testing
-  - Utilities
+| Categories             |
+|------------------------|
+| API management         |
+| Chat                   |
+| Code quality           |
+| Code review            |
+| Continuous integration |
+| Dependency management  |
+| Deployment             |
+| IDEs                   |
+| Learning               |
+| Localization           |
+| Mobile                 |
+| Monitoring             |
+| Project management     |
+| Publishing             |
+| Recently added         |
+| Security               |
+| Support                |
+| Testing                |
+| Utilities              |
+
 </details>
 
 <details>
