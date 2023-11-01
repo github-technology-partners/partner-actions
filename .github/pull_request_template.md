@@ -26,7 +26,3 @@ Ensure you can check all the boxes:
 - [ ] **Security Policy**: Hpyerlinked to the seucrity policy in the source repo of the Action.
 
 By submitting this PR, you acknowledge that you have checked off all boxes and followed the [contribution guidelines](contributing.md).
-
----
-
-This now provides a direct link to the `contributing.md` file for contributors to easily access the guidelines.
