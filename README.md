@@ -31,11 +31,9 @@ _Fall 2023_
 Learn more about best practices for authors of GitHub Actions [here](url).
 
 # Partner Contribution Requirements:
-- Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
-- Partners must self attest to the best practices for authors of GitHub Actions.
-- To submit an Action for consideration, please open a PR and add your Action.
+- Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate. To submit an Action for consideration, please open a PR and add your Action. 
 
-Want to add your Action? Learn more about contribution to this rep [here](/path to CONTRIBUTION.md in root)
+Learn more about contributing to this repo [here](/path to CONTRIBUTION.md in root)
 
 
 
