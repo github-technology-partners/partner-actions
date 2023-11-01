@@ -61,7 +61,7 @@ Before you proceed, make sure to read our [Contributor Code of Conduct](code-of-
 
 <details>
   <summary>Partner</summary>
-  Company name that is registered with [TPP](http://partner.github.com).
+  Company name that is registered with [TPP](https://partner.github.com).
 </details>
 
 <details>
