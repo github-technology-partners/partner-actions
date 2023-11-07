@@ -15,6 +15,7 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |Category|Partner|Action|Description|Security Policy|
 |-|-|-|-|-|
 |Android|XYZ Corp|[Android Builder](https://github.com/xyz-corp/android-builder)|A powerful tool to automate Android builds|[Security Policy](https://github.com/xyz-corp/android-builder/blob/main/SECURITY.md)|
+|Code review|Mergify|[Add Linear author as reviewer](https://github.com/Mergifyio/gha-add-linear-author-as-reviewer)|A GitHub action that request review of the Linear issue author.|[Security Policy](https://github.com/Mergifyio/gha-add-linear-author-as-reviewer/blob/main/SECURITY.md)|
 
 # Best Practices
 _Fall 2023_
