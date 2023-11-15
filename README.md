@@ -16,6 +16,7 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |-|-|-|-|-|
 |Code review|Mergify|[Add Linear author as reviewer](https://github.com/Mergifyio/gha-add-linear-author-as-reviewer)|A GitHub action that request review of the Linear issue author.|[Security Policy](https://github.com/Mergifyio/gha-add-linear-author-as-reviewer/blob/main/SECURITY.md)|
 |Deployment|Pulumi|[Pulumi GitHub Actions](https://github.com/pulumi/actions)|Deploy apps and infrastructure to your cloud of choice, using your favorite language and GitHub.|[Security Policy](https://github.com/pulumi/actions/security/policy)|
+|Security|StepSecurity|[Harden-Runner](https://github.com/step-security/harden-runner)|Runtime security for GitHub Actions across GitHub-hosted and self-hosted runners.|[Security Policy](https://github.com/step-security/harden-runner/blob/main/SECURITY.md)|
 
 # Best Practices
 _Fall 2023_
