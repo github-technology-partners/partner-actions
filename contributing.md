@@ -60,22 +60,26 @@ Before you proceed, make sure to read our [Contributor Code of Conduct](code-of-
 
 <details>
   <summary>Partner</summary>
+  
   Company name that is registered with [TPP](https://partner.github.com).
 </details>
 
 <details>
   <summary>Action</summary>
+  
   Provide a direct hyperlink to your GitHub action. Example: [Setup Node](https://github.com/actions/setup-node)
 </details>
 
 <details>
   <summary>Description</summary>
+  
   Describe your action succinctly. The description should be a maximum of 100 characters.
 </details>
 
 <details>
   <summary>Security Policy</summary>
-  Ensure your action has an associated security policy. Include a direct link to this policy in your submission. If unsure, refer to the documentation on how to [add a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
+  
+  Ensure your action has an associated security policy. Include a direct link to this policy in your submission. If unsure, refer to the documentation on how to [add a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).  
 </details>
 
 
