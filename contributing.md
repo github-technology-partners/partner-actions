@@ -41,6 +41,7 @@ Before you proceed, make sure to read our [Contributor Code of Conduct](code-of-
 | Chat                   |
 | Code quality           |
 | Code review            |
+| Code search            |
 | Continuous integration |
 | Dependency management  |
 | Deployment             |
