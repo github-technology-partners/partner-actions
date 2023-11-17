@@ -18,6 +18,9 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |Code review|Mergify|[Add Linear author as reviewer](https://github.com/Mergifyio/gha-add-linear-author-as-reviewer)|A GitHub action that request review of the Linear issue author.|[Security Policy](https://github.com/Mergifyio/gha-add-linear-author-as-reviewer/blob/main/SECURITY.md)|
 |Deployment|Pulumi|[Pulumi GitHub Actions](https://github.com/pulumi/actions)|Deploy apps and infrastructure to your cloud of choice, using your favorite language and GitHub.|[Security Policy](https://github.com/pulumi/actions/security/policy)|
 |Security|StepSecurity|[Harden-Runner](https://github.com/step-security/harden-runner)|Runtime security for GitHub Actions across GitHub-hosted and self-hosted runners.|[Security Policy](https://github.com/step-security/harden-runner/blob/main/SECURITY.md)|
+|Continuous integration|Azure|[Login](https://github.com/Azure/login)|Connect to Azure.|[Security Policy](https://github.com/Azure/login/blob/master/SECURITY.md)|
+|Continuous integration|Azure|[CLI](https://github.com/Azure/cli)|Automate your GitHub workflows using Azure CLI scripts.|[Security Policy](https://github.com/Azure/cli/blob/master/SECURITY.md)|
+|Continuous integration|Azure|[PowerShell](https://github.com/Azure/powershell)|GH Action to run Az PowerShell scripts for developers and administrators to develop, deploy, and manage Microsoft Azure applications.|[Security Policy](https://github.com/Azure/powershell/blob/master/SECURITY.md)|
 
 # Best Practices
 _Fall 2023_
