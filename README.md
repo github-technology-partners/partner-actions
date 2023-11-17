@@ -20,7 +20,7 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |Security|StepSecurity|[Harden-Runner](https://github.com/step-security/harden-runner)|Runtime security for GitHub Actions across GitHub-hosted and self-hosted runners.|[Security Policy](https://github.com/step-security/harden-runner/blob/main/SECURITY.md)|
 |Continuous integration|Azure|[Login](https://github.com/Azure/login)|Connect to Azure.|[Security Policy](https://github.com/Azure/login/blob/master/SECURITY.md)|
 |Continuous integration|Azure|[CLI](https://github.com/Azure/cli)|Automate your GitHub workflows using Azure CLI scripts.|[Security Policy](https://github.com/Azure/cli/blob/master/SECURITY.md)|
-|Continuous integration|Azure|[PowerShell](https://github.com/Azure/powershell)|GH Action to run Az PowerShell scripts for developers and administrators to develop, deploy, and manage Microsoft Azure applications.|[Security Policy](https://github.com/Azure/powershell/blob/master/SECURITY.md)|
+|Continuous integration|Azure|[PowerShell](https://github.com/Azure/powershell)|Automate your GitHub workflows using Azure PowerShell scripts.|[Security Policy](https://github.com/Azure/powershell/blob/master/SECURITY.md)|
 
 # Best Practices
 _Fall 2023_
