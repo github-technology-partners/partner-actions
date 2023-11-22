@@ -21,6 +21,7 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |Continuous integration|Azure|[Login](https://github.com/Azure/login)|Connect to Azure.|[Security Policy](https://github.com/Azure/login/blob/master/SECURITY.md)|
 |Continuous integration|Azure|[CLI](https://github.com/Azure/cli)|Automate your GitHub workflows using Azure CLI scripts.|[Security Policy](https://github.com/Azure/cli/blob/master/SECURITY.md)|
 |Continuous integration|Azure|[PowerShell](https://github.com/Azure/powershell)|Automate your GitHub workflows using Azure PowerShell scripts.|[Security Policy](https://github.com/Azure/powershell/blob/master/SECURITY.md)|
+|Deployment|HashiCorp|[Setup Terraform](https://github.com/hashicorp/setup-terraform)|Sets up Terraform CLI in your GitHub Actions workflow.|[Security Policy](https://github.com/hashicorp/setup-terraform/security/policy)|
 
 # Best Practices
 _Fall 2023_

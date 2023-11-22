@@ -7,7 +7,7 @@ Certainly! Here's a refined version of the contribution guidelines to provide mo
 Thank you for your interest in contributing to our curated list of GitHub Actions by technology partners. Please read and adhere to the guidelines below to ensure a consistent and streamlined process.
 
 ## Code of Conduct
-Before you proceed, make sure to read our [Contributor Code of Conduct](code-of-conduct.md). By participating in this project, you agree to abide by its terms.
+Before you proceed, make sure to read our [Contributor Code of Conduct](.github/code-of-conduct.md). By participating in this project, you agree to abide by its terms.
 
 
 ## :warning: Adding Your Action: Requirements :warning:
