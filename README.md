@@ -26,6 +26,7 @@ Learn more about GitHub Actions [here](https://github.com/features/actions).
 |Security|Veracode|[Upload & Scan](https://github.com/veracode/veracode-uploadandscan-action)|Automatically scan your code using Veracode for first-party vulnerabilities|[Security Policy](https://github.com/veracode/veracode-uploadandscan-action/blob/master/SECURITY.md)|
 |Security|Veracode|[Scan Results to Issues](https://github.com/veracode/veracode-flaws-to-issues)|Take results of a first-party code scan using Veracode and import them into GitHub as Issues.|[Security Policy](https://github.com/veracode/veracode-flaws-to-issues/blob/main/SECURITY.md)|
 |Security|Veracode|[Dependency Scanning](https://github.com/veracode/veracode-sca)|Scan your code for third party vulnerabilities using Veracode and turn them into issues.|[Security Policy](https://github.com/veracode/veracode-sca/blob/main/SECURITY.md)|
+|Continuous integration|Shipyard|[Integrate Shipyard](https://github.com/shipyard/shipyard-action)|Securely authenticate into Shipyard-generated environments to run E2E tests on every code change.|[Security Policy](https://github.com/shipyard/shipyard-action/blob/main/SECURITY.md)|
 
 # Best Practices
 _Fall 2023_
